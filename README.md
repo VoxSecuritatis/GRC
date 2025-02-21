@@ -1,3 +1,5 @@
+# Governance, Risk, and Compliance
+
 ## Objective
 
 This repository serves as a resource for exploring Governance, Risk, and Compliance (GRC) through practical tools, educational materials, and real-world applications. It includes risk assessment templates, policy frameworks, and tutorials aimed at enhancing understanding and implementation of GRC concepts. The goal is to provide a hands-on learning experience for professionals and students while showcasing practical solutions to navigate complex regulatory environments and strengthen organizational governance.
