@@ -18,7 +18,7 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
   - Vendor and third-party risk management
 
 - **Compliance:**
-  - Understanding and applying regulatory requirements (e.g., GDPR, HIPAA, SOX)
+  - Understanding and applying regulatory requirements (e.g., PCI-DSS, GDPR, HIPAA, SOX)
   - Conducting compliance audits and assessments
   - Developing compliance training programs
   - Regulatory reporting and documentation
@@ -31,7 +31,7 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
   - Cybersecurity governance and risk frameworks (e.g., NIST, ISO 27001)
 
 - **Tools and Technologies:**
-  - GRC platforms (e.g., RSA Archer, ServiceNow GRC, MetricStream)
+  - GRC platforms (e.g., RSA Archer, BitSight, etc.)
   - Compliance management software
   - Risk assessment and visualization tools
   - Automation tools for compliance reporting
@@ -46,6 +46,7 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
 
 - Microsoft Word
 - Microsoft Excel
+- Microsoft PowerPoint
 - Microsoft Visio
 - Power BI
 - BitSight
