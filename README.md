@@ -57,3 +57,8 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
 | Blog Post                                      | Description               |
 |------------------------------------------------|---------------------------|
 | <a href="https://github.com/VoxSecuritatis/Blog-GRC-QuantitativeQualitativeRiskAnalysis">Quantitative and Qualitative Risk Assessment: Cheatsheet  | A guide for professionals and students who would like to understand the use and implementation of Quantitative and Qualitative risk assessment approaches.  Includes use cases, formulas, and resources. |
+
+### Projects
+| Project Name                                  | Description                |
+|-----------------------------------------------|----------------------------|
+| <a href="https://github.com/VoxSecuritatis/Project-Cloud-BasicAuditAWSEnvironment">Conducting a basic audit of an AWS environment  | An audit using multiple AWS services:  EC2, VPC, IAM, CloudTrail, and CloudWatch. |
