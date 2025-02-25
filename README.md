@@ -56,4 +56,4 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
 ### Blog
 | Blog Post                                      | Description               |
 |------------------------------------------------|---------------------------|
-| <a href="https://github.com/VoxSecuritatis/Blog-GRC-QuantitativeQualitativeRiskAnalysis">Quantitative and Qualitative Risk Assessment: A Short Guide  | A guide for professionals and students who would like to understand the use and implementation of Quantitative and Qualitative risk assessment approaches.  Includes use cases, formulas, and resources. |
+| <a href="https://github.com/VoxSecuritatis/Blog-GRC-QuantitativeQualitativeRiskAnalysis">Quantitative and Qualitative Risk Assessment: Cheatsheet  | A guide for professionals and students who would like to understand the use and implementation of Quantitative and Qualitative risk assessment approaches.  Includes use cases, formulas, and resources. |
