@@ -58,6 +58,7 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
 |------------------------------------------------|---------------------------|
 | <a href="https://github.com/VoxSecuritatis/Blog-GRC-QuantitativeQualitativeRiskAnalysis">Quantitative and Qualitative Risk Assessment: Cheatsheet  | A guide for professionals and students who would like to understand the use and implementation of Quantitative and Qualitative risk assessment approaches.  Includes use cases, formulas, and resources. |
 | <a href="https://github.com/VoxSecuritatis/Blog-GRC-RiskAssessment"> Understanding Risk Management, Risk Assessment, and Risk Treatment in Cybersecurity | Why Risk Management, Risk Assessment, and Risk Treatment in Cybersecurity are important concepts to understand and how to approach risk management - includes a sample risk matrix. |
+| <a href="https://github.com/VoxSecuritatis/Blog-GRC-CybersecurityFundamentals"> Cybersecurity Fundamentals: A Short Guide | A short introduction to the importance of cybersecurity, risks in the enviroment, and countermeasures to close the gap. |
 
 ### Projects
 | Project Name                                  | Description                |
