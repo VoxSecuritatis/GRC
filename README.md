@@ -65,3 +65,7 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
 | Project Name                                  | Description                |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/VoxSecuritatis/Project-Cloud-BasicAuditAWSEnvironment">Conducting a basic audit of an AWS environment  | An audit using multiple AWS services:  EC2, VPC, IAM, CloudTrail, and CloudWatch. |
+
+---
+
+© 2025 Brock Frary. All rights reserved.
