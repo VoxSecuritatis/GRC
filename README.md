@@ -1,4 +1,5 @@
-# Governance, Risk, and Compliance
+# Governance, Risk, and Compliance Portfolio
+Published: 2025-02-21 | Updated: 2025-10-06
 
 ## Objective
 
